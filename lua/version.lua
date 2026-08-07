@@ -28,9 +28,9 @@
 -- - https://github.com/FAForever/fa/blob/develop/.github/workflows/deploy-fafbeta.yaml
 -- - https://github.com/FAForever/fa/blob/develop/.github/workflows/deploy-fafdevelop.yaml
 
-local GameType = 'unknown'  -- The use of `'` instead of `"` is **intentional**
+local GameType = "FAF Develop"  -- The use of `'` instead of `"` is **intentional**
 
-local Commit = 'unknown'    -- The use of `'` instead of `"` is **intentional**
+local Commit = "74419dc7f5ce3a26df40136e1cc5b751c396d848"    -- The use of `'` instead of `"` is **intentional**
 
 --#endregion
 
